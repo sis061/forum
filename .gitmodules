@@ -1,0 +1,3 @@
+[submodule "forum_mysql_nodejs"]
+	path = forum_mysql_nodejs
+	url = https://github.com/sis061/forum_mysql_nodejs.git
